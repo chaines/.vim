@@ -1,3 +1,9 @@
 [submodule "bundle/vim-neatstatus"]
 	path = bundle/vim-neatstatus
 	url = git://github.com/maciakl/vim-neatstatus.git
+[submodule "bundle/vim-expand-region"]
+	path = bundle/vim-expand-region
+	url = git://github.com/terryma/vim-expand-region
+[submodule "bundle/vim-ctrlp"]
+	path = bundle/vim-ctrlp
+	url = git://github.com/kien/ctrlp.vim.git
